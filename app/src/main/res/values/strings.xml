@@ -104,5 +104,5 @@
     <string name="settings_no_voice">This device has no %1$s voice installed, so nothing can be read aloud.</string>
     <string name="settings_install_voice">Install a voice</string>
     <string name="settings_about">About</string>
-    <string name="settings_about_text">Athene works offline. Lessons are built from free data:\n\n• Sentences from Tatoeba (tatoeba.org), CC BY 2.0 FR\n• Word meanings from Wiktionary via kaikki.org, CC BY-SA 4.0\n• Word frequencies from the FrequencyWords project (OpenSubtitles), CC BY-SA 4.0\n• Japanese meanings from JMdict (EDRDG), CC BY-SA 4.0\n\nMeanings are generated automatically and can be imperfect.</string>
+    <string name="settings_about_text">Athene works offline. It is free software under the GNU General Public License v3.0; the source is at github.com/rogerjbos/Athene.\n\nLessons are built from free data:\n\n• Sentences from Tatoeba (tatoeba.org), CC BY 2.0 FR\n• Word meanings from Wiktionary via kaikki.org, CC BY-SA 4.0\n• Word frequencies from the FrequencyWords project (OpenSubtitles), CC BY-SA 4.0\n• Japanese meanings from JMdict (EDRDG), CC BY-SA 4.0\n\nMeanings are generated automatically and can be imperfect.</string>
 </resources>
