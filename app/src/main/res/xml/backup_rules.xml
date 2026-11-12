@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto Backup on Android 11 and older. content.db is copied from the APK, so it is left out. -->
+<full-backup-content>
+    <exclude domain="database" path="content.db" />
+    <exclude domain="database" path="content.db-shm" />
+    <exclude domain="database" path="content.db-wal" />
+</full-backup-content>

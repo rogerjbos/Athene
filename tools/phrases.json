@@ -1,0 +1,536 @@
+{
+ "es": [
+  {
+   "title": "Greetings",
+   "phrases": [
+    {
+     "text": "Hola",
+     "meaning": "Hello"
+    },
+    {
+     "text": "Buenos días",
+     "meaning": "Good morning"
+    },
+    {
+     "text": "¿Cómo estás?",
+     "meaning": "How are you?"
+    },
+    {
+     "text": "Mucho gusto",
+     "meaning": "Nice to meet you"
+    },
+    {
+     "text": "Gracias",
+     "meaning": "Thank you"
+    },
+    {
+     "text": "Adiós",
+     "meaning": "Goodbye"
+    }
+   ]
+  },
+  {
+   "title": "Getting around",
+   "phrases": [
+    {
+     "text": "¿Dónde está el baño?",
+     "meaning": "Where is the bathroom?"
+    },
+    {
+     "text": "¿Cuánto cuesta?",
+     "meaning": "How much is it?"
+    },
+    {
+     "text": "No entiendo",
+     "meaning": "I don't understand"
+    },
+    {
+     "text": "¿Habla inglés?",
+     "meaning": "Do you speak English?"
+    },
+    {
+     "text": "A la izquierda",
+     "meaning": "To the left"
+    },
+    {
+     "text": "A la derecha",
+     "meaning": "To the right"
+    }
+   ]
+  },
+  {
+   "title": "Dining",
+   "phrases": [
+    {
+     "text": "Una mesa para dos",
+     "meaning": "A table for two"
+    },
+    {
+     "text": "La carta, por favor",
+     "meaning": "The menu, please"
+    },
+    {
+     "text": "La cuenta, por favor",
+     "meaning": "The check, please"
+    },
+    {
+     "text": "Está delicioso",
+     "meaning": "It's delicious"
+    },
+    {
+     "text": "Agua, por favor",
+     "meaning": "Water, please"
+    },
+    {
+     "text": "Soy vegetariano",
+     "meaning": "I'm vegetarian"
+    }
+   ]
+  }
+ ],
+ "fr": [
+  {
+   "title": "Greetings",
+   "phrases": [
+    {
+     "text": "Bonjour",
+     "meaning": "Hello"
+    },
+    {
+     "text": "Bonsoir",
+     "meaning": "Good evening"
+    },
+    {
+     "text": "Comment ça va ?",
+     "meaning": "How are you?"
+    },
+    {
+     "text": "Enchanté",
+     "meaning": "Nice to meet you"
+    },
+    {
+     "text": "Merci beaucoup",
+     "meaning": "Thank you very much"
+    },
+    {
+     "text": "Au revoir",
+     "meaning": "Goodbye"
+    }
+   ]
+  },
+  {
+   "title": "Getting around",
+   "phrases": [
+    {
+     "text": "Où sont les toilettes ?",
+     "meaning": "Where is the toilet?"
+    },
+    {
+     "text": "Combien ça coûte ?",
+     "meaning": "How much is it?"
+    },
+    {
+     "text": "Je ne comprends pas",
+     "meaning": "I don't understand"
+    },
+    {
+     "text": "Parlez-vous anglais ?",
+     "meaning": "Do you speak English?"
+    },
+    {
+     "text": "À gauche",
+     "meaning": "To the left"
+    },
+    {
+     "text": "À droite",
+     "meaning": "To the right"
+    }
+   ]
+  },
+  {
+   "title": "Dining",
+   "phrases": [
+    {
+     "text": "Une table pour deux",
+     "meaning": "A table for two"
+    },
+    {
+     "text": "La carte, s’il vous plaît",
+     "meaning": "The menu, please"
+    },
+    {
+     "text": "L’addition, s’il vous plaît",
+     "meaning": "The check, please"
+    },
+    {
+     "text": "C’est délicieux",
+     "meaning": "It's delicious"
+    },
+    {
+     "text": "De l’eau, s’il vous plaît",
+     "meaning": "Water, please"
+    },
+    {
+     "text": "Je suis végétarien",
+     "meaning": "I'm vegetarian"
+    }
+   ]
+  }
+ ],
+ "de": [
+  {
+   "title": "Greetings",
+   "phrases": [
+    {
+     "text": "Hallo",
+     "meaning": "Hello"
+    },
+    {
+     "text": "Guten Morgen",
+     "meaning": "Good morning"
+    },
+    {
+     "text": "Wie geht’s?",
+     "meaning": "How are you?"
+    },
+    {
+     "text": "Freut mich",
+     "meaning": "Nice to meet you"
+    },
+    {
+     "text": "Danke schön",
+     "meaning": "Thank you"
+    },
+    {
+     "text": "Auf Wiedersehen",
+     "meaning": "Goodbye"
+    }
+   ]
+  },
+  {
+   "title": "Getting around",
+   "phrases": [
+    {
+     "text": "Wo ist die Toilette?",
+     "meaning": "Where is the toilet?"
+    },
+    {
+     "text": "Wie viel kostet das?",
+     "meaning": "How much is it?"
+    },
+    {
+     "text": "Ich verstehe nicht",
+     "meaning": "I don't understand"
+    },
+    {
+     "text": "Sprechen Sie Englisch?",
+     "meaning": "Do you speak English?"
+    },
+    {
+     "text": "Nach links",
+     "meaning": "To the left"
+    },
+    {
+     "text": "Nach rechts",
+     "meaning": "To the right"
+    }
+   ]
+  },
+  {
+   "title": "Dining",
+   "phrases": [
+    {
+     "text": "Ein Tisch für zwei",
+     "meaning": "A table for two"
+    },
+    {
+     "text": "Die Speisekarte, bitte",
+     "meaning": "The menu, please"
+    },
+    {
+     "text": "Die Rechnung, bitte",
+     "meaning": "The check, please"
+    },
+    {
+     "text": "Es ist lecker",
+     "meaning": "It's delicious"
+    },
+    {
+     "text": "Wasser, bitte",
+     "meaning": "Water, please"
+    },
+    {
+     "text": "Ich bin Vegetarier",
+     "meaning": "I'm vegetarian"
+    }
+   ]
+  }
+ ],
+ "nl": [
+  {
+   "title": "Greetings",
+   "phrases": [
+    {
+     "text": "Hallo",
+     "meaning": "Hello"
+    },
+    {
+     "text": "Goedemorgen",
+     "meaning": "Good morning"
+    },
+    {
+     "text": "Hoe gaat het?",
+     "meaning": "How are you?"
+    },
+    {
+     "text": "Aangenaam",
+     "meaning": "Nice to meet you"
+    },
+    {
+     "text": "Dank je wel",
+     "meaning": "Thank you"
+    },
+    {
+     "text": "Tot ziens",
+     "meaning": "Goodbye"
+    }
+   ]
+  },
+  {
+   "title": "Getting around",
+   "phrases": [
+    {
+     "text": "Waar is het toilet?",
+     "meaning": "Where is the toilet?"
+    },
+    {
+     "text": "Hoeveel kost het?",
+     "meaning": "How much is it?"
+    },
+    {
+     "text": "Ik begrijp het niet",
+     "meaning": "I don't understand"
+    },
+    {
+     "text": "Spreekt u Engels?",
+     "meaning": "Do you speak English?"
+    },
+    {
+     "text": "Naar links",
+     "meaning": "To the left"
+    },
+    {
+     "text": "Naar rechts",
+     "meaning": "To the right"
+    }
+   ]
+  },
+  {
+   "title": "Dining",
+   "phrases": [
+    {
+     "text": "Een tafel voor twee",
+     "meaning": "A table for two"
+    },
+    {
+     "text": "Het menu, alstublieft",
+     "meaning": "The menu, please"
+    },
+    {
+     "text": "De rekening, alstublieft",
+     "meaning": "The check, please"
+    },
+    {
+     "text": "Het is heerlijk",
+     "meaning": "It's delicious"
+    },
+    {
+     "text": "Water, alstublieft",
+     "meaning": "Water, please"
+    },
+    {
+     "text": "Ik ben vegetariër",
+     "meaning": "I'm vegetarian"
+    }
+   ]
+  }
+ ],
+ "it": [
+  {
+   "title": "Greetings",
+   "phrases": [
+    {
+     "text": "Ciao",
+     "meaning": "Hi"
+    },
+    {
+     "text": "Buongiorno",
+     "meaning": "Good morning"
+    },
+    {
+     "text": "Come stai?",
+     "meaning": "How are you?"
+    },
+    {
+     "text": "Piacere",
+     "meaning": "Nice to meet you"
+    },
+    {
+     "text": "Grazie mille",
+     "meaning": "Thank you very much"
+    },
+    {
+     "text": "Arrivederci",
+     "meaning": "Goodbye"
+    }
+   ]
+  },
+  {
+   "title": "Getting around",
+   "phrases": [
+    {
+     "text": "Dov’è il bagno?",
+     "meaning": "Where is the bathroom?"
+    },
+    {
+     "text": "Quanto costa?",
+     "meaning": "How much is it?"
+    },
+    {
+     "text": "Non capisco",
+     "meaning": "I don't understand"
+    },
+    {
+     "text": "Parla inglese?",
+     "meaning": "Do you speak English?"
+    },
+    {
+     "text": "A sinistra",
+     "meaning": "To the left"
+    },
+    {
+     "text": "A destra",
+     "meaning": "To the right"
+    }
+   ]
+  },
+  {
+   "title": "Dining",
+   "phrases": [
+    {
+     "text": "Un tavolo per due",
+     "meaning": "A table for two"
+    },
+    {
+     "text": "Il menù, per favore",
+     "meaning": "The menu, please"
+    },
+    {
+     "text": "Il conto, per favore",
+     "meaning": "The check, please"
+    },
+    {
+     "text": "È delizioso",
+     "meaning": "It's delicious"
+    },
+    {
+     "text": "Acqua, per favore",
+     "meaning": "Water, please"
+    },
+    {
+     "text": "Sono vegetariano",
+     "meaning": "I'm vegetarian"
+    }
+   ]
+  }
+ ],
+ "ja": [
+  {
+   "title": "Greetings",
+   "phrases": [
+    {
+     "text": "こんにちは",
+     "meaning": "Hello"
+    },
+    {
+     "text": "おはようございます",
+     "meaning": "Good morning"
+    },
+    {
+     "text": "お元気ですか",
+     "meaning": "How are you?"
+    },
+    {
+     "text": "はじめまして",
+     "meaning": "Nice to meet you"
+    },
+    {
+     "text": "ありがとうございます",
+     "meaning": "Thank you"
+    },
+    {
+     "text": "さようなら",
+     "meaning": "Goodbye"
+    }
+   ]
+  },
+  {
+   "title": "Getting around",
+   "phrases": [
+    {
+     "text": "トイレはどこですか",
+     "meaning": "Where is the bathroom?"
+    },
+    {
+     "text": "いくらですか",
+     "meaning": "How much is it?"
+    },
+    {
+     "text": "わかりません",
+     "meaning": "I don't understand"
+    },
+    {
+     "text": "英語を話せますか",
+     "meaning": "Do you speak English?"
+    },
+    {
+     "text": "左です",
+     "meaning": "To the left"
+    },
+    {
+     "text": "右です",
+     "meaning": "To the right"
+    }
+   ]
+  },
+  {
+   "title": "Dining",
+   "phrases": [
+    {
+     "text": "二人です",
+     "meaning": "A table for two"
+    },
+    {
+     "text": "メニューをください",
+     "meaning": "The menu, please"
+    },
+    {
+     "text": "お会計をお願いします",
+     "meaning": "The check, please"
+    },
+    {
+     "text": "おいしいです",
+     "meaning": "It's delicious"
+    },
+    {
+     "text": "お水をください",
+     "meaning": "Water, please"
+    },
+    {
+     "text": "ベジタリアンです",
+     "meaning": "I'm vegetarian"
+    }
+   ]
+  }
+ ]
+}
